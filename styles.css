@@ -1,5 +1,8 @@
 body {
-  background-color: #0066ff
+  background: #371212 url(./background.gif) top repeat-x;
+  font-family: Arial, Helvetica;
+  color: #F7F5D9;
+  text-align: center;
   
 } 
 
