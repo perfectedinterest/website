@@ -1,0 +1,1 @@
+# This is just a playful website that I am using to practice implementing HTML and CSS. It will likely have random text, links, pictures, and other elements. It should not be considered part of my professional portfolio or ability. 
